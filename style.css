@@ -1,0 +1,12 @@
+body {
+	background: lightgrey;
+	width: 500px;
+	margin: auto;
+	font-family: arial;
+}
+
+div {
+	width: 500px;
+	height: 55px;
+	border: 2px solid white;
+}
